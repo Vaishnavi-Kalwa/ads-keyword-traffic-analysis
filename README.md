@@ -55,10 +55,10 @@ Top Keywords by Traffic and Search Demand
 
 # Key Insights
 
-# PMP, Project Management, AWS, and Scrum 
+PMP, Project Management, AWS, and Scrum 
 are the most searched keywords, driving significant search traffic.
 
-# Simplilearn, PMP, and Scrum 
+Simplilearn, PMP, and Scrum 
 show strong search engine positioning.
 
 High search volume keywords generally generate higher advertising traffic potential.
