@@ -1,0 +1,4 @@
+Traffic_id,min_traffic,max_traffic,traffic_group
+1,1500,5000,High
+2,500,1500,Medium
+3,0,500,Low

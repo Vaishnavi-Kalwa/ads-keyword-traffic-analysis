@@ -1,0 +1,4 @@
+cost_id,min_cost,max_cost,cost_level
+1,5000,20000,High
+2,1000,5000,Medium
+3,0,1000,Low
